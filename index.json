@@ -1,0 +1,6 @@
+{
+	"name": "Experiments",
+	"id": "experiments",
+	"description": "Enables discord's experiments mode and more.",
+	"dependencies": []
+}
